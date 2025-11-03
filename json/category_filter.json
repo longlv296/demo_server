@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "art"
+  },
+  {
+    "id": 2,
+    "name": "bw"
+  },
+  {
+    "id": 3,
+    "name": "colorful"
+  },
+  {
+    "id": 4,
+    "name": "daily"
+  },
+  {
+    "id": 5,
+    "name": "food"
+  },
+  {
+    "id": 6,
+    "name": "movie"
+  },
+  {
+    "id": 7,
+    "name": "natural"
+  },
+  {
+    "id": 8,
+    "name": "sky"
+  }
+]
